@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pandegar
+- 👋 Hi, I’m Pandegar
 - 👀 I’m interested in: programmer
 - 🌱 I’m currently learning: fullstack web dev
 - 💞️ I’m looking to collaborate on: project team

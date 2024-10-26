@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pandegar
-- 👀 I’m interested in: programmer
-- 🌱 I’m currently learning: fullstack web dev
+- 👀 I’m interested in: website design
+- 🌱 I’m currently learning: front end
 - 💞️ I’m looking to collaborate on: project team
 - 📫 How to reach me: in my social media
 - 😄 Pronouns: he/him
